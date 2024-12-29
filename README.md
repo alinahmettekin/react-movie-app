@@ -18,6 +18,12 @@ This is a simple React application where users can search for movies and add the
 - **React Router (react-router-dom)**
 - **Context API**
 
----
+## Screenshots
+
+![home](https://github.com/user-attachments/assets/9efe62ac-b4c2-4a86-a24d-a72884f6269d)
+
+![search](https://github.com/user-attachments/assets/45acc96d-4610-4fa9-94c0-0e471d2561ac)
+
+![favorites](https://github.com/user-attachments/assets/96cbff23-fd80-4af5-9619-8add1fc0715b)
 
 Enjoy using the app! 😊
